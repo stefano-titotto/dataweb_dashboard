@@ -1,6 +1,6 @@
 # Dataweb Dashboard
 
-Project to publish a dashboard with the quartz slabs import statistics in USA.
+Project to publish online a dashboard with the quartz slabs import statistics in USA.
 
 Technologies:
 - python pandas to process the data
