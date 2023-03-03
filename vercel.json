@@ -1,0 +1,5 @@
+{
+  "build": {
+    "command": "panel serve --port 5050 USImport_dashboard.ipynb"
+  }
+}
