@@ -1,7 +1,10 @@
+name: python 3.10
+
 channels:
 - pyviz
 
 packages:
+- python=3.10
 - numpy
 - pandas
 - panel
