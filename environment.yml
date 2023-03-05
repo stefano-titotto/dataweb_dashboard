@@ -5,6 +5,7 @@ channels:
 
 packages:
 - python=3.10
+- jupyter-panel-proxy
 - numpy
 - pandas
 - panel
